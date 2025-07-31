@@ -38,13 +38,21 @@ Monthly submissions from distributors capturing:
 ---
 
 ## Power BI Implementation 
-<img width="960" height="540" alt="Screenshot 2025-07-31 224440" src="https://github.com/user-attachments/assets/172f22dc-4f9f-4b7f-931a-8bcad5aead07" />
+<img width="978" height="556" alt="image" src="https://github.com/user-attachments/assets/5f22fee6-0c55-45be-80ef-f76e63a64365" />
+<p align="center"><strong>--- Visuals that Speak. Data that Delivers. ---</strong></p>
+
+---
 
 ### 🔗 Data Modeling  
 - Unified distributor entries into a centralized fact table  
 - Integrated product classes and team hierarchy for slicing  
 - Time intelligence using `OrderDate` for YTD/SPLY metrics  
   
+---
+
+<img width="848" height="602" alt="image" src="https://github.com/user-attachments/assets/0ed14563-9546-4b84-895d-6c92cb90ddc6" />
+
+---
 
 ### DAX Measures  
 - `Revenue YTD`, `SPLY Revenue`, `Target YTD`  
@@ -52,7 +60,10 @@ Monthly submissions from distributors capturing:
 - `Target Achievement %`  
 
 ---
-<img width="976" height="555" alt="image" src="https://github.com/user-attachments/assets/6d4b1f85-7c8a-4520-b590-bff14cf984c8" />
+<img width="986" height="562" alt="image" src="https://github.com/user-attachments/assets/e6617c8e-6f3b-4ee0-a6e6-07a0a59e5cf6" />
+<p align="center"><strong>--- Where Insight Meets Intuition ---</strong></p>
+
+---
 
 ## Design & Formatting Strategy  
 
