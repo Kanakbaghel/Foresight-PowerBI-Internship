@@ -37,7 +37,8 @@ Monthly submissions from distributors capturing:
 
 ---
 
-## Power BI Implementation  
+## Power BI Implementation 
+<img width="960" height="540" alt="Screenshot 2025-07-31 224440" src="https://github.com/user-attachments/assets/172f22dc-4f9f-4b7f-931a-8bcad5aead07" />
 
 ### 🔗 Data Modeling  
 - Unified distributor entries into a centralized fact table  
@@ -51,6 +52,7 @@ Monthly submissions from distributors capturing:
 - `Target Achievement %`  
 
 ---
+<img width="976" height="555" alt="image" src="https://github.com/user-attachments/assets/6d4b1f85-7c8a-4520-b590-bff14cf984c8" />
 
 ## Design & Formatting Strategy  
 
